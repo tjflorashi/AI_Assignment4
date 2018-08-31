@@ -1,1 +1,2 @@
-# AI_Assignment4
+# AI_Assignment4 
+Assignment instructions are in A4.pdf
